@@ -502,5 +502,5 @@ Potential future enhancements:
 
 # 👨‍💻 Author
 
-Soufiane Zaakour 
+Soufiane Zaakour & 
 Mohamed EL-idrysy
