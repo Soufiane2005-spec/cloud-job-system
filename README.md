@@ -501,5 +501,5 @@ Potential future enhancements:
 ---
 
 # 👨‍💻 Author
-
-Developed as a cloud-native backend engineering and DevOps portfolio project demonstrating production-style distributed systems architecture.
+Soufiane Zaakour 
+Mohamed El-idrysy
